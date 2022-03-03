@@ -1,4 +1,6 @@
 rencana konten kou
 -javascrip dasar
+  #syntax teranyar
+  #framework
 -interview
 -latihan
