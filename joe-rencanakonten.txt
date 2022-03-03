@@ -2,5 +2,6 @@ rencana konten kou
 -javascrip dasar
   #syntax teranyar
   #framework
+  #fundamental data struktur
 -interview
 -latihan
