@@ -2,7 +2,7 @@ rencana konten kou
 -javascrip dasar
   #syntax teranyar
   #framework
-    *vue 
+  *vue 
   #fundamental data struktur
 -interview
 -latihan
