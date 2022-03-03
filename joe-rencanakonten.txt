@@ -2,6 +2,8 @@ rencana konten kou
 -javascrip dasar
   #syntax teranyar
   #framework
-    *angular
+  *vue 
+  #fundamental data struktur
 -interview
 -latihan
+-phyton
